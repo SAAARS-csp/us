@@ -9,3 +9,8 @@ a.nav-link {
 a.navbar-brand {
 	font-size: 30px;
 }
+
+
+.card {
+	margin: 1rem;
+}
